@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="./assets/roc-logo.svg" height="180" width="180" />
+    <img src="./assets/roc_logo.png" height="180" width="180" />
     <h1>Awesome Roc</h1>
     <br />
 </div>
